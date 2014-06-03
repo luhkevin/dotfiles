@@ -1,0 +1,21 @@
+sw_volume: 100
+audio_device_state:1:Alsa Device
+audio_device_state:1:pulseaudio
+audio_device_state:1:My HTTP Stream
+state: play
+current: 1
+time: 96
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Third Eye Blind/03 Semicharmed Life.mp3
+1:Third Eye Blind/04 Jumper.mp3
+2:Arthur Rubinstein - Rachmaninoff, Rhapsody on a Theme of Paganini (Low).mp4
+3:Dvořák Symphony No. 9 From The New World  Karajan · Vienna Philarmonic (Low).mp4
+4:Rachmaninoff Pianoconcerto no.2 op.18 - Anna Fedorova - Complete Live Concert - HD (HD).mp4
+playlist_end

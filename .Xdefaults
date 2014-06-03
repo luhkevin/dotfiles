@@ -1,0 +1,40 @@
+URxvt*transparent:	false
+URxvt*tintColor:	Blue
+URxvt*background:	#0c0d0e
+#URxvt*foreground:	#00BF26
+URxvt*foreground:   Gray
+URxvt*font:		    xft: inconsolata:pixelsize=16:antialias=true:hinting=true
+URxvt*boldFont:		xft: inconsolata:pixelsize=16:antialias=true:hinting=true
+URxvt*scrollBar:	false
+Urxvt*allow_bold:   true
+
+!black
+#urxvt*color0:   #101010
+#urxvt*color8:   #404040
+
+!red
+#urxvt*color1:   #E84F4F
+#urxvtt*color9:   #D23D3D
+
+!green
+urxvt*color2:   #B8D68C
+#urxvt*color10:  #A0CF5D
+
+urxvt*color3:   #E1AA5D
+urxvt*color11:  #F39D21
+
+#COLOR 4 IS THE CULPRIT
+#urxvt*color4:   #57e9ff
+
+#changes output on console
+urxvt*color12:  #008080
+
+urxvt*color5:   #9B64FB
+urxvt*color13:  #8542FF
+
+urxvt*color6:   #6d878d
+urxvt*color14:  #21fbdf
+
+#urxvt*color7:   #dddddd
+#urxvt*color15:  #dddddd
+

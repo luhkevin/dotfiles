@@ -1,0 +1,1843 @@
+May 31 10:30 : player: played "Third Eye Blind/04 Jumper.mp3"
+May 31 10:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:1,0": No such file or directory
+May 31 10:30 : player: played "Third Eye Blind/03 Semicharmed Life.mp3"
+May 31 10:30 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+May 31 10:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:1,0": No such file or directory
+May 31 10:30 : config: option 'mixer_device' on line 219 was not recognized
+May 31 10:30 : config: option 'mixer_control' on line 220 was not recognized
+May 31 10:30 : player: played "Third Eye Blind/03 Semicharmed Life.mp3"
+May 31 10:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:1,0": No such file or directory
+May 31 10:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:1,0": No such file or directory
+May 31 10:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:1,0": No such file or directory
+May 31 10:31 : player: played "Third Eye Blind/04 Jumper.mp3"
+May 31 14:32 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+May 31 14:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:1,2": No such file or directory
+May 31 14:32 : config: option 'mixer_device' on line 219 was not recognized
+May 31 14:32 : config: option 'mixer_control' on line 220 was not recognized
+May 31 14:32 : player: played "Third Eye Blind/04 Jumper.mp3"
+May 31 14:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:1,2": No such file or directory
+May 31 14:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:1,2": No such file or directory
+May 31 14:32 : player: played "Third Eye Blind/03 Semicharmed Life.mp3"
+May 31 14:37 : config: option 'mixer_device' on line 219 was not recognized
+May 31 14:37 : config: option 'mixer_control' on line 220 was not recognized
+May 31 14:37 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+May 31 14:38 : player: played "Third Eye Blind/03 Semicharmed Life.mp3"
+May 31 14:38 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+May 31 14:38 : config: option 'mixer_device' on line 219 was not recognized
+May 31 14:38 : config: option 'mixer_control' on line 220 was not recognized
+May 31 14:57 : player: played "Third Eye Blind/03 Semicharmed Life.mp3"
+May 31 14:57 : player: played "Rachmaninoff Pianoconcerto no.2 op.18 - Anna Fedorova - Complete Live Concert - HD (HD).mp4"
+May 31 14:57 : ffmpeg/flv: Stream discovered after head already parsed
+May 31 14:57 : player: played "【OTAMATONE_COMP】ワールズエンドダンスホール【弾いてみた】Otamatone (SD).flv"
+May 31 14:57 : player: played "VLADIMIR HOROWITZ - MASTER OF RACH 3 OPUS 30 [1909] - HD (HD).mp4"
+May 31 22:34 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+May 31 22:34 : config: option 'mixer_device' on line 219 was not recognized
+May 31 22:34 : config: option 'mixer_control' on line 220 was not recognized
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+May 31 22:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 01 02:58 : player: played "Rachmaninoff Pianoconcerto no.2 op.18 - Anna Fedorova - Complete Live Concert - HD (HD).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 01 02:58 : player: played "Rachmaninoff Pianoconcerto no.2 op.18 - Anna Fedorova - Complete Live Concert - HD (HD).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 02:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:01 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:01 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:01 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:01 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:01 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:02 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:02 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:02 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:02 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:02 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:02 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:09 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:09 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 03:09 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 01 09:26 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 01 09:26 : config: option 'mixer_device' on line 219 was not recognized
+Jun 01 09:26 : config: option 'mixer_control' on line 220 was not recognized
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 01 09:49 : player: played "Rachmaninoff Pianoconcerto no.2 op.18 - Anna Fedorova - Complete Live Concert - HD (HD).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 09:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:57 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:58 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 18:59 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 19:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 19:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 01 19:00 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 02 00:31 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+Jun 02 00:31 : config: option 'mixer_device' on line 219 was not recognized
+Jun 02 00:31 : config: option 'mixer_control' on line 220 was not recognized
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 02 00:35 : pulse_output: failed to connect the stream: Connection terminated
+Jun 02 00:35 : player: played "Rachmaninoff Pianoconcerto no.2 op.18 - Anna Fedorova - Complete Live Concert - HD (HD).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 02 00:37 : player: played "Rachmaninoff Pianoconcerto no.2 op.18 - Anna Fedorova - Complete Live Concert - HD (HD).mp4"
+Jun 02 00:43 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+Jun 02 00:43 : config: option 'mixer_device' on line 219 was not recognized
+Jun 02 00:43 : config: option 'mixer_control' on line 220 was not recognized
+Jun 02 00:43 : player: played "Rachmaninoff Pianoconcerto no.2 op.18 - Anna Fedorova - Complete Live Concert - HD (HD).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 00:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 02 20:48 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+Jun 02 20:48 : config: option 'mixer_device' on line 219 was not recognized
+Jun 02 20:48 : config: option 'mixer_control' on line 220 was not recognized
+Jun 02 20:48 : player: played "VLADIMIR HOROWITZ - MASTER OF RACH 3 OPUS 30 [1909] - HD (HD).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 02 20:48 : player: played "VLADIMIR HOROWITZ - MASTER OF RACH 3 OPUS 30 [1909] - HD (HD).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 02 20:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 00:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 03 17:02 : config: option 'mixer_device' on line 219 was not recognized
+Jun 03 17:02 : config: option 'mixer_control' on line 220 was not recognized
+Jun 03 17:02 : server_socket: bind to '0.0.0.0:8000' failed: Address already in use (continuing anyway, because binding to '[::]:8000' succeeded)
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:02 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:02 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 03 17:03 : player: played "Third Eye Blind/03 Semicharmed Life.mp3"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 03 17:03 : player: played "Arthur Rubinstein - Rachmaninoff, Rhapsody on a Theme of Paganini (Low).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:03 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:04 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:05 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:06 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 03 17:07 : player: played "Third Eye Blind/04 Jumper.mp3"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:07 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:08 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:09 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:09 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:09 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:09 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:09 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:10 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:10 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:10 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:10 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:10 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:10 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:11 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:11 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:11 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:11 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:11 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:11 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:12 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:12 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:12 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:12 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:12 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:12 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:13 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:13 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:13 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:13 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:13 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:13 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:14 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:14 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:14 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:14 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:14 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:14 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:15 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:15 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:15 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:15 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:15 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:15 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:16 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:16 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:16 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:16 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:16 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:17 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:17 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:17 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:17 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:17 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:17 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:18 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:18 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:18 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:18 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:18 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:18 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:19 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:19 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:19 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:19 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:19 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:19 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:20 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:20 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:20 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:20 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:20 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:21 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:21 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:21 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:21 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:21 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:21 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:22 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:22 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:22 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:22 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:22 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:22 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:23 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:23 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:23 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:23 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:23 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:24 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:24 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:24 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:24 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:24 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:24 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:25 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:25 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:25 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:25 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:25 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:25 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:26 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:27 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:28 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:29 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+Jun 03 17:30 : player: played "Arthur Rubinstein - Rachmaninoff, Rhapsody on a Theme of Paganini (Low).mp4"
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:30 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:31 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:32 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:33 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:34 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:35 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:36 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:37 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:38 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:39 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:40 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:41 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:42 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:43 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:44 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:45 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:46 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:47 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:48 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:49 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:50 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:51 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:52 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:53 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:54 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:55 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
+ALSA lib pcm_hw.c:1667:(_snd_pcm_hw_open) Invalid value for card
+Jun 03 17:56 : alsa_output: Failed to open "Alsa Device" [alsa]: Failed to open ALSA device "hw:2,1": No such file or directory
